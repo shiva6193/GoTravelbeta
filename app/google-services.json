@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904556356014",
+    "firebase_url": "https://gotravelbeta-16f8c.firebaseio.com",
+    "project_id": "gotravelbeta-16f8c",
+    "storage_bucket": "gotravelbeta-16f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904556356014:android:83b74b2c0fdfaa5a",
+        "android_client_info": {
+          "package_name": "com.shivakumar.gotravelbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904556356014-uj00tfm98pf49hlm3ddcjcvg3goo8e7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivakumar.gotravelbeta",
+            "certificate_hash": "d0349fe3432439c6c2f055c85640d353aae97247"
+          }
+        },
+        {
+          "client_id": "904556356014-dd127l3plahtfi16duijn4ar5m394026.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBBWI6qLEiSVIhZ3nz5AGj5c6g9-2IvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904556356014-dd127l3plahtfi16duijn4ar5m394026.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
